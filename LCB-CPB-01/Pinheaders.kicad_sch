@@ -2963,7 +2963,7 @@
 
   (symbol (lib_id "LEA_SymbolLibrary:TP_Keystone_Electronics_5019") (at 179.07 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid c266408f-85be-43e2-83ca-63693d695652)
+    (uuid bcaf8330-4d5f-4c8e-9793-a5ad069c0bc1)
     (property "Reference" "TP1" (at 185.42 29.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -2985,7 +2985,7 @@
     (property "manf#" "5019" (at 179.07 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 228e975b-2441-4cb4-b0d6-a63b6dc70c9d))
+    (pin "1" (uuid cdb7ff08-84cd-4461-a4a6-2f82ceb83d39))
     (instances
       (project "LCB-CPB-01_Pin_Board"
         (path "/da9c5ddc-584e-4187-90af-7a541fea6100/f04d4fc4-2eb7-4ec0-9c89-19a72e337841"
