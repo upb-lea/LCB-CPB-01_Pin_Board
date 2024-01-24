@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.1.0] - 2024-01-24
 ### Added
 - Changelog file
 ### Fixed
@@ -16,5 +18,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Pin board for the LEA control board (LCB)
 - Initial schematics and layout
 
-[unreleased]: https://github.com/upb-lea/LCB-CPB-01_Pin_Board/compare/1.0.0...HEAD
+[unreleased]: https://github.com/upb-lea/LCB-CPB-01_Pin_Board/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/upb-lea/LCB-CPB-01_Pin_Board/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/upb-lea/LCB-CPB-01_Pin_Board/releases/tag/1.0.0

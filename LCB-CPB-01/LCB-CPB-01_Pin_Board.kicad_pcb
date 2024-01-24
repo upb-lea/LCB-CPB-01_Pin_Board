@@ -6,8 +6,10 @@
 
   (paper "A4")
   (title_block
-    (date "2023-12-14")
-    (company "LEA Universität Paderborn")
+    (title "LCB-CPB-01: Pin_Board")
+    (date "2024-01-24")
+    (rev "1.1.0")
+    (company "PADERBORN UNIVERSITY DEPARTMENT OF POWER ELECTRONICS AND ELECTRICAL DRIVES")
   )
 
   (layers
