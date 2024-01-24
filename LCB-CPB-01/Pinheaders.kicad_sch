@@ -6,8 +6,8 @@
 
   (title_block
     (title "LCB-CPB-01: Pin_Borad")
-    (date "2023-12-13")
-    (rev "1.0.0")
+    (date "2024-01-24")
+    (rev "1.1.0")
     (company "PADERBORN UNIVERSITY DEPARTMENT OF POWER ELECTRONICS AND ELECTRICAL DRIVES")
   )
 
@@ -1327,11 +1327,15 @@
     (uuid ff0fe2e3-4f3e-43f6-a997-33ced0de6e88)
   )
 
-  (text "TOP LEFT CONNECTOR to Pinheader" (at 20.32 20.32 0)
+  (text "TOP RIGHT CONNECTOR" (at 13.97 19.05 0)
     (effects (font (size 5 5) (thickness 0.6) bold) (justify left bottom))
     (uuid 39c34a4b-66c4-45cb-a1e4-df7043eca052)
   )
-  (text "TOP RIGHT CONNECTOR to Pinheader" (at 33.02 110.49 0)
+  (text "TOP LEFT CONNECTOR" (at 104.14 110.49 0)
+    (effects (font (size 5 5) (thickness 0.6) bold) (justify left bottom))
+    (uuid 610b1473-245f-4c80-ae26-4638c7f8d468)
+  )
+  (text "TOP MID CONNECTOR" (at 13.97 110.49 0)
     (effects (font (size 5 5) (thickness 0.6) bold) (justify left bottom))
     (uuid 6ec7a4f2-5275-474a-842f-b3d35daa4694)
   )
